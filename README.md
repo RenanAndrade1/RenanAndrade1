@@ -1,4 +1,12 @@
-## Hi there 👋
+#👋Olá!eu sou o Renan e bem-vindo ao meu perfil!
+😁atualmente estudando desenvolvimento de sistemas.
+🐍foco atual em python.
+🧐quero crescer em programação e ganhar oportunidades.
+📩contato:@deandradesilvarenan@gmail.com
+
+
+
+
 
 <!--
 **RenanAndrade1/RenanAndrade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
