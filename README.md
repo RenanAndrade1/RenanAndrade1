@@ -1,8 +1,10 @@
-#👋Olá!eu sou o Renan e bem-vindo ao meu perfil!
-😁atualmente estudando desenvolvimento de sistemas.
-🐍foco atual em python.
+# 👋Olá!eu sou o Renan e bem-vindo ao meu perfil!
+-😁atualmente estudando desenvolvimento de sistemas.
+-foco atual em python.
+-<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 🧐quero crescer em programação e ganhar oportunidades.
-📩contato:@deandradesilvarenan@gmail.com
+-📩contato:@deandradesilvarenan@gmail.com
 
 
 
