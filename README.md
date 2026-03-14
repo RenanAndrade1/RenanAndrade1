@@ -9,7 +9,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 🧐quero crescer em programação e ganhar oportunidades.
 
--📩contato:@deandradesilvarenan@gmail.com
+📩contato:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:deandradesilvarenan@gmail.com)
+
 
 
 
