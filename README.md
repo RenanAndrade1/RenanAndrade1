@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,php,mysql,git,github,vscode,python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,php,mysql,git,github,vscode,python,&theme=dark" />
 
 </p>
 
@@ -98,9 +98,8 @@
   <img src="https://raw.githubusercontent.com/RenanAndrade1/RenanAndrade1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### GitHub Action
 
-```yml
+```
 
 ```
 
