@@ -46,8 +46,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="220">
-
+<img src="https://skillicons.dev/icons?i=github" width="220">
 </td>
 </tr>
 </table>
@@ -105,7 +104,7 @@
 
 ---
 
-## 🌐 Conectar Comigo
+## 🌐 Conecte Comigo
 
 <p align="center">
 
