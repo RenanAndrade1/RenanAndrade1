@@ -81,15 +81,9 @@
 
 ---
 
-## 📈 Gráfico de Atividade
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RenanAndrade1&bg_color=2E040C&color=F2446D&line=BA113A&point=F2446D&area=true&hide_border=true" />
 
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
